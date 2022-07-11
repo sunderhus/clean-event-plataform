@@ -33,6 +33,10 @@ module.exports = {
           900: '#09090A'
         }
       },
+      backgroundImage:{
+        blur: 'url(/src/presentation/assets/blur-background.png)',
+        reactjs: 'url(/src/presentation/assets/reactjs.png)' 
+      }
     },
   },
   plugins: [],
