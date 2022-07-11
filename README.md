@@ -1,0 +1,1 @@
+// parei no vídeo 4 as 26:35
